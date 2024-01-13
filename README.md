@@ -6,6 +6,9 @@ Regex algorithm identifying the keywords in a document, such as the abbreviation
 **Edge Cases --**
 The method is design for detecting and shifting standardized terms and phrases. Therefore, miss-spealled terms cannot be replaced regularly. Rather, they will be counted as spelling errors. At the same time, a keyword missing special characters will also be considered as an error so that it won’t be detected by the algorithm. For instance, the keyword ‘wont’ will be considered as a typographical error and will not be recognized as abbreviation.
 
+**Project demonstration**
+https://youtu.be/9c2gmuquIxM
+
 **Expected complexities** 
 - worst case time complexity: O(n^2)
 - average time complicity: O(nlog(n))
