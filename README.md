@@ -14,5 +14,5 @@ The method is design for detecting and shifting standardized terms and phrases. 
 Abbreviation list- Cited from “The Complete List of 1697 Common Text Abbreviations & Acronyms”. Converted toward Excel Text.
 Link - https://www.webopedia.com/reference/text-abbreviations/
 
-**Language --*
+**Language --**
 JAVA
